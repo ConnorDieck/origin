@@ -1,0 +1,5 @@
+git branch [new-branch] or checkout -b [new-branch]
+Fast-forward merges occur when new commits have only occurred on the new branch. Recursive merges occur when commits have been made to both the new branch and the original
+git checkout [switch-to-this-branch]
+git checkout -d [delete-this-branch]
+Merge conflicts occur when commits have been made to the same areas in both branches being merged.
